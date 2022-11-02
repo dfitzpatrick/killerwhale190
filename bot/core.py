@@ -21,7 +21,7 @@ class CoreCog(commands.Cog):
             """For further help, use /cmd and see the hints that discord provides
 
             **Available Commands**
-          
+            nO COMMANDS. PASTE A PICTURE OF A POKEMON TO SEE ITS IDENTIFICATION
         """)
         embed = discord.Embed(title=title, description=description)
 
